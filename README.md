@@ -9,9 +9,9 @@
 ```bash
 cd backend
 npm install
-npm run dev   # com nodemon (recomendado)
+npm run dev 
 # ou
-npm start     # sem hot-reload
+npm start 
 ```
 
 A API estará disponível em `http://localhost:3000`.
